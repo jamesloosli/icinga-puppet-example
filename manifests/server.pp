@@ -1,5 +1,5 @@
 class baseicinga::server {
-  include baseicinga::server::perl_modules
+ # include baseicinga::server::perl_modules
   include baseicinga::server::commands
   include baseicinga::server::contacts
   include baseicinga::server::hostgroups
